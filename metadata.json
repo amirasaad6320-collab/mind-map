@@ -1,0 +1,6 @@
+{
+  "name": "MindMap Grader Pro",
+  "description": "AI-powered academic workbench for grading students' handwritten mind maps against official model answers with visual error annotations, teacher overrides, batch processing, and bilingual WhatsApp feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
